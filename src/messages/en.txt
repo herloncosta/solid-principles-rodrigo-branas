@@ -1,0 +1,1 @@
+The total was U$$${total}, the taxes was U$$${taxes}. Thanks for your order!
